@@ -13,4 +13,4 @@
 ##
 ### 🎨 Tela
 
-![image](https://user-images.githubusercontent.com/79333823/190042619-24b8765d-2c6d-4a2c-a788-82c7a0af3c7d.png)
+![image](https://user-images.githubusercontent.com/79333823/190043852-26672428-8e5c-4c21-be29-0d2c68677cf6.png)
